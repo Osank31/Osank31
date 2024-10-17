@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osank31" alt="osank31" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Osank31](Osank31)
-
 - 📫 How to reach me **osankverma2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -21,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osank31&show_icons=true&locale=en&layout=compact" alt="osank31" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osank31&show_icons=true&locale=en" alt="osank31" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osank31&" alt="osank31" /></p>
