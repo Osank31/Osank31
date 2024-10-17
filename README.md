@@ -11,7 +11,7 @@
   <a href="https://www.codechef.com/users/osankverma" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="osankverma" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/osank" target="blank">
+  <a href="https://www.leetcode.com/u/MZXHo38P4Q" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osank" height="30" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/osankver6tfb" target="blank">
