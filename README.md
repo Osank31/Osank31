@@ -15,7 +15,7 @@
   <a href="https://www.codechef.com/users/osankverma" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  <a href="https://leetcode.com/u/MZXHo38P4Q" target="_blank">
+  <a href="https://leetcode.com/u/Osank_Verma/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/osankver6tfb" target="_blank">
