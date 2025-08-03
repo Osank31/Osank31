@@ -9,7 +9,7 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/osankverma" target="_blank">
+  <a href="https://www.linkedin.com/in/osank-verma/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.codechef.com/users/osankverma" target="_blank">
